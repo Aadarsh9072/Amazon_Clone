@@ -1,4 +1,4 @@
-#Amazon_Clone
-My 1st first project in c++
+# Amazon_Clone
+My 1st first project Using Html & CSS
 <br>
-My first github repositories
+This is a clone of Amazon.com and created only for learning purposes
